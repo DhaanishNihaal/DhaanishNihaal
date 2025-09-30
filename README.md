@@ -34,10 +34,6 @@ I'm always open to new opportunities and connecting with fellow developers. Feel
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhaanishNihaal&show_icons=true&theme=radical" alt="DhaanishNihaal's GitHub stats" />
-</div>
-
 ## 📈 GitHub Analytics  
 
 <div align="center">
@@ -58,5 +54,6 @@ I'm always open to new opportunities and connecting with fellow developers. Feel
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhaanishNihaal&theme=react-dark&hide_border=true&bg_color=0D1117&color=4F46E5&line=4F46E5&point=FFFFFF&area=true&area_color=4F46E5&title_color=4F46E5" alt="Activity Graph" />
 
 </div>
+
 
 
