@@ -3,16 +3,37 @@
 As a 2nd-year Computer Science Engineering student, I thrive on turning ideas into reality through code. My journey in tech is driven by a deep curiosity for **software development** and the transformative power of **AI/ML**. I believe in learning by doing, and my projects are a testament to that philosophy.
 
 ---
-## 🎓 Education
+##  Education
 
 **B.Tech - Computer Science Engineering**  
 Kalaignar Karunanidhi Institute of Technology, Coimbatore  
 2023 - 2027
 
 ---
+##  Projects
+
+### **1. WatchBuddy**
+**Description:** A movie recommendation system that helps users find movies based on their preferences using AI/ML.  
+**Tech Stack:** React, Flask, scikit-learn, Pandas, CSS  
+**Links:** [GitHub Repo](https://github.com/yourusername/WatchBuddy) | [Live Demo](https://watchbuddy.vercel.app)
+
+---
+
+### **2. VoicePass**
+**Description:** Voice-based authentication system allowing secure login/registration using real-time voice recording.  
+**Tech Stack:** React, JavaScript, Web Audio API, MediaRecorder, Python, SpeechRecognition, CSS  
+**Links:** [GitHub Repo](https://github.com/yourusername/VoicePass)
+
+---
+
+### **3. Synthetic Dataset Generator**
+**Description:** Generates a dataset of 1 million users for training ML models to replace traditional credit scoring methods.  
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn  
+**Links:** [GitHub Repo](https://github.com/yourusername/Synthetic-Dataset-Generator)
 
 
-### 🛠️ Tech Stack
+
+###  Tech Stack
 <p align="center">
   <!-- Programming Languages -->
   <b> Programming Languages:</b><br>
@@ -101,6 +122,7 @@ I'm always open to new opportunities and connecting with fellow developers. Feel
   </a>
 
 </p>
+
 
 
 
