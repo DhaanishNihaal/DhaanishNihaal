@@ -22,7 +22,7 @@ I'm always open to new opportunities and connecting with fellow developers. Feel
 
 ---
 
-## 📈 GitHub Analytics  
+## GitHub Analytics  
 
 <div align="center">
 
@@ -42,6 +42,30 @@ I'm always open to new opportunities and connecting with fellow developers. Feel
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhaanishNihaal&theme=react-dark&hide_border=true&bg_color=0D1117&color=4F46E5&line=4F46E5&point=FFFFFF&area=true&area_color=4F46E5&title_color=4F46E5" alt="Activity Graph" />
 
 </div>
+
+## Coding Profiles  
+<p align="center">
+
+  <a href="https://leetcode.com/nihaal11nihaal/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="60" height="60" style="border-radius:50%;"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.codechef.com/users/kit23bam013" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://auth.geeksforgeeks.org/user/your_username" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.hackerrank.com/your_username" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+
+</p>
+
+
+
 
 
 
