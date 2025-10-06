@@ -4,31 +4,19 @@ As a 2nd-year Computer Science Engineering student, I thrive on turning ideas in
 
 ---
 
-## 🔭 Featured Projects
 
-**WatchBuddy**
-A personal project combining my love for movies and AI. WatchBuddy is an AI-powered movie recommendation system built with **React**, **Flask**, and a custom **machine learning** model. This project was a great opportunity to explore both front-end and back-end development while tackling a fun challenge.
-
-**VoicePass**
-Focusing on security and biometrics, this project is a voice-based authentication system. It's an exploration into the potential of using unique voice patterns for secure access.
-
-**Synthetic Credit Dataset Generator**
-In the world of data science, access to quality data is key. This tool generates high-quality, synthetic datasets specifically for machine learning applications in credit risk analysis, helping overcome data privacy and scarcity challenges.
-
----
-
-## 🌱 My Tech Toolbox
+## My Tech Toolbox
 
 I'm constantly expanding my skills, but here's what I'm currently working with:
 
 - **Languages:** Python, Java, SQL
-- **Frameworks:** React, Flask
+- **Frameworks:** React, Flask , maven
 - **Styling:** Tailwind CSS
 - **Core Concepts:** Machine Learning, Database Management, Version Control (Git)
 
 ---
 
-## 📫 Let's Collaborate!
+## Let's Collaborate!
 
 I'm always open to new opportunities and connecting with fellow developers. Feel free to reach out to me on **[LinkedIn](https://linkedin.com/in/dhaanish-nihaal)** or check out my other projects on my **[portfolio](https://github.com/DhaanishNihaal)**.
 
@@ -54,6 +42,7 @@ I'm always open to new opportunities and connecting with fellow developers. Feel
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhaanishNihaal&theme=react-dark&hide_border=true&bg_color=0D1117&color=4F46E5&line=4F46E5&point=FFFFFF&area=true&area_color=4F46E5&title_color=4F46E5" alt="Activity Graph" />
 
 </div>
+
 
 
 
