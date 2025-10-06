@@ -3,9 +3,14 @@
 As a 2nd-year Computer Science Engineering student, I thrive on turning ideas into reality through code. My journey in tech is driven by a deep curiosity for **software development** and the transformative power of **AI/ML**. I believe in learning by doing, and my projects are a testament to that philosophy.
 
 ---
+## 🎓 Education
 
+**B.Tech - Computer Science Engineering**  
+Kalaignar Karunanidhi Institute of Technology, Coimbatore  
+2023 - 2027
 
-## My Tech Toolbox
+---
+
 
 ### 🛠️ Tech Stack
 <p align="center">
@@ -96,5 +101,6 @@ I'm always open to new opportunities and connecting with fellow developers. Feel
   </a>
 
 </p>
+
 
 
