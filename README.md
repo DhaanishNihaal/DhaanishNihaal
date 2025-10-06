@@ -1,8 +1,13 @@
-# Hi, I'm Dhaanish Nihaal - A Passionate Developer 👋
 
-As a 2nd-year Computer Science Engineering student, I thrive on turning ideas into reality through code. My journey in tech is driven by a deep curiosity for **software development** and the transformative power of **AI/ML**. I believe in learning by doing, and my projects are a testament to that philosophy.
 
----
+<h1 align="center">Hi, I'm Dhaanish Nihaal</h1>
+
+<p align="center">
+2nd-year Computer Science Engineering student | Passionate about turning ideas into reality through code. Skilled in software development, AI/ML, and full-stack web development.
+</p>
+
+
+
 ##  Education
 
 **B.Tech - Computer Science Engineering**  
@@ -10,68 +15,92 @@ Kalaignar Karunanidhi Institute of Technology, Coimbatore
 2023 - 2027
 
 ---
-##  Projects
+## 🚀 Projects
 
-### **1. WatchBuddy**
-**Description:** A movie recommendation system that helps users find movies based on their preferences using AI/ML.  
-**Tech Stack:** React, Flask, scikit-learn, Pandas, CSS  
-**Links:** [GitHub Repo](https://github.com/yourusername/WatchBuddy) | [Live Demo](https://watchbuddy.vercel.app)
+<table>
+  <tr>
+    <!-- Project 1 -->
+    <td valign="top" width="33%" style="padding: 10px; border: 1px solid #ddd; border-radius: 10px;">
+      <h3>WatchBuddy</h3>
+      <p><b>Description:</b> Movie recommendation system that helps users find movies based on preferences using AI/ML.</p>
+      <p><b>Tech Stack:</b> React, Flask, scikit-learn, Pandas, CSS</p>
+      <p><b>Links:</b> <a href="https://github.com/yourusername/WatchBuddy">GitHub</a> | <a href="https://watchbuddy.vercel.app">Live Demo</a></p>
+    </td>
+    <!-- Project 2 -->
+    <td valign="top" width="33%" style="padding: 10px; border: 1px solid #ddd; border-radius: 10px;">
+      <h3>VoicePass</h3>
+      <p><b>Description:</b> Voice-based authentication system for secure login/registration using real-time voice recording.</p>
+      <p><b>Tech Stack:</b> React, JavaScript, Web Audio API, MediaRecorder, Python, SpeechRecognition, CSS</p>
+      <p><b>Links:</b> <a href="https://github.com/yourusername/VoicePass">GitHub</a></p>
+    </td>
+    <!-- Project 3 -->
+    <td valign="top" width="33%" style="padding: 10px; border: 1px solid #ddd; border-radius: 10px;">
+      <h3>Synthetic Dataset Generator</h3>
+      <p><b>Description:</b> Generates a dataset of 1 million users for training ML models to replace traditional credit scoring.</p>
+      <p><b>Tech Stack:</b> Python, Pandas, NumPy, Scikit-learn</p>
+      <p><b>Links:</b> <a href="https://github.com/yourusername/Synthetic-Dataset-Generator">GitHub</a></p>
+    </td>
+  </tr>
+</table>
 
----
-
-### **2. VoicePass**
-**Description:** Voice-based authentication system allowing secure login/registration using real-time voice recording.  
-**Tech Stack:** React, JavaScript, Web Audio API, MediaRecorder, Python, SpeechRecognition, CSS  
-**Links:** [GitHub Repo](https://github.com/yourusername/VoicePass)
-
----
-
-### **3. Synthetic Dataset Generator**
-**Description:** Generates a dataset of 1 million users for training ML models to replace traditional credit scoring methods.  
-**Tech Stack:** Python, Pandas, NumPy, Scikit-learn  
-**Links:** [GitHub Repo](https://github.com/yourusername/Synthetic-Dataset-Generator)
 
 
 
-###  Tech Stack
-<p align="center">
-  <!-- Programming Languages -->
-  <b> Programming Languages:</b><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin:5px;"/>
-  <br>
-  <br>
-  <!-- Frontend -->
-  <b> Frontend:</b><br>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="margin:5px;"/>
-  <br>
-  <br>
-  <!-- Backend -->
-  <b> Backend:</b><br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="margin:5px;"/>
-  <br>
-  <br>
-  <!-- Deployment -->
-  <b> Databases:</b><br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="margin:5px;"/>
-  <br><br>
-  <b> Deployment:</b><br>
-  <img src="https://img.shields.io/badge/Render-222222?style=for-the-badge&logo=render&logoColor=white" alt="Render" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" style="margin:5px;"/>
-  <br><br>
-  <!-- Tools -->
-  <b> Tools:</b><br>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin:5px;"/>
 
-</p>
+### Tech Stack
+## 🛠️ Tech Stack
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
+  <!-- Column 1 -->
+  <div style="flex: 0 0 48%; margin-bottom: 20px;">
+    <b>Programming Languages:</b><br>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin:5px;"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="margin:5px;"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="margin:5px;"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin:5px;"/>
+  </div>
+
+  <!-- Column 2 -->
+  <div style="flex: 0 0 48%; margin-bottom: 20px;">
+    <b>Frontend:</b><br>
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="margin:5px;"/>
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="margin:5px;"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="margin:5px;"/>
+  </div>
+<br
+  <!-- Column 3 -->
+  <div style="flex: 0 0 48%; margin-bottom: 20px;">
+    <b>Backend:</b><br>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="margin:5px;"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="margin:5px;"/>
+  </div>
+<br>
+  <!-- Column 4 -->
+  <div style="flex: 0 0 48%; margin-bottom: 20px;">
+    <b>Databases:</b><br>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin:5px;"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="margin:5px;"/>
+  </div>
+<br>
+  <!-- Column 5 -->
+  <div style="flex: 0 0 48%; margin-bottom: 20px;">
+    <b>Deployment:</b><br>
+    <img src="https://img.shields.io/badge/Render-222222?style=for-the-badge&logo=render&logoColor=white" alt="Render" style="margin:5px;"/>
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" style="margin:5px;"/>
+  </div>
+<br>
+  <!-- Column 6 -->
+  <div style="flex: 0 0 48%; margin-bottom: 20px;">
+    <b>Tools:</b><br>
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="margin:5px;"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin:5px;"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin:5px;"/>
+  </div>
+
+</div>
+
+
 
 
 
@@ -122,6 +151,7 @@ I'm always open to new opportunities and connecting with fellow developers. Feel
   </a>
 
 </p>
+
 
 
 
