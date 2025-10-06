@@ -7,14 +7,47 @@ As a 2nd-year Computer Science Engineering student, I thrive on turning ideas in
 
 ## My Tech Toolbox
 
-I'm constantly expanding my skills, but here's what I'm currently working with:
+### 🛠️ Tech Stack
+<p align="center">
+  <!-- Programming Languages -->
+  <b> Programming Languages:</b><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin:5px;"/>
+  <br>
+  <br>
+  <!-- Frontend -->
+  <b> Frontend:</b><br>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="margin:5px;"/>
+  <br>
+  <br>
+  <!-- Backend -->
+  <b> Backend:</b><br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="margin:5px;"/>
+  <br>
+  <br>
+  <!-- Deployment -->
+  <b> Databases:</b><br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="margin:5px;"/>
+  <br><br>
+  <b> Deployment:</b><br>
+  <img src="https://img.shields.io/badge/Render-222222?style=for-the-badge&logo=render&logoColor=white" alt="Render" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" style="margin:5px;"/>
+  <br><br>
+  <!-- Tools -->
+  <b> Tools:</b><br>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin:5px;"/>
 
-- **Languages:** Python, Java, SQL
-- **Frameworks:** React, Flask , maven
-- **Styling:** Tailwind CSS
-- **Core Concepts:** Machine Learning, Database Management, Version Control (Git)
+</p>
 
----
+
 
 ## Let's Collaborate!
 
@@ -63,10 +96,5 @@ I'm always open to new opportunities and connecting with fellow developers. Feel
   </a>
 
 </p>
-
-
-
-
-
 
 
