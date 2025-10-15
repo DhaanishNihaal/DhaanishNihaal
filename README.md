@@ -1,10 +1,6 @@
 
 
-<h1 align="center">Hi, I'm Dhaanish Nihaal</h1>
-
-<p align="center">
-2nd-year Computer Science Engineering student | Passionate about turning ideas into reality through code. Skilled in software development, AI/ML, and full-stack web development.
-</p>
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/69abc576-9a3c-4c74-90c9-92e053b495d9" />
 
 
 
@@ -151,6 +147,7 @@ I'm always open to new opportunities and connecting with fellow developers. Feel
   </a>
 
 </p>
+
 
 
 
