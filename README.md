@@ -30,12 +30,7 @@ Kalaignar Karunanidhi Institute of Technology, Coimbatore
       <p><b>Links:</b> <a href="https://github.com/yourusername/VoicePass">GitHub</a></p>
     </td>
     <!-- Project 3 -->
-    <td valign="top" width="33%" style="padding: 10px; border: 1px solid #ddd; border-radius: 10px;">
-      <h3>Synthetic Dataset Generator</h3>
-      <p><b>Description:</b> Generates a dataset of 1 million users for training ML models to replace traditional credit scoring.</p>
-      <p><b>Tech Stack:</b> Python, Pandas, NumPy, Scikit-learn</p>
-      <p><b>Links:</b> <a href="https://github.com/yourusername/Synthetic-Dataset-Generator">GitHub</a></p>
-    </td>
+
   </tr>
 </table>
 
@@ -147,6 +142,7 @@ I'm always open to new opportunities and connecting with fellow developers. Feel
   </a>
 
 </p>
+
 
 
 
