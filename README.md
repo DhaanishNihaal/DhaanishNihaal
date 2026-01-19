@@ -11,28 +11,38 @@ Kalaignar Karunanidhi Institute of Technology, Coimbatore
 2023 - 2027
 
 ---
-## 🚀 Projects
+##  Projects
 
+<!-- PROJECTS TABLE START -->
 <table>
   <tr>
-    <!-- Project 1 -->
-    <td valign="top" width="33%" style="padding: 10px; border: 1px solid #ddd; border-radius: 10px;">
-      <h3>WatchBuddy</h3>
-      <p><b>Description:</b> Movie recommendation system that helps users find movies based on preferences using AI/ML.</p>
-      <p><b>Tech Stack:</b> React, Flask, scikit-learn, Pandas, CSS</p>
-      <p><b>Links:</b> <a href="https://github.com/yourusername/WatchBuddy">GitHub</a> | <a href="https://watchbuddy.vercel.app">Live Demo</a></p>
+    <td width="33%" valign="top">
+      <b>Task Scheduler</b><br><br>
+      A task scheduling application that helps users plan and manage tasks efficiently.<br><br>
+      <b>Tech Stack:</b> Java, Maven<br><br>
+      <b>Links:</b>
+      <a href="https://github.com/DhaanishNihaal/Task_scheduler">GitHub</a>
     </td>
-    <!-- Project 2 -->
-    <td valign="top" width="33%" style="padding: 10px; border: 1px solid #ddd; border-radius: 10px;">
-      <h3>VoicePass</h3>
-      <p><b>Description:</b> Voice-based authentication system for secure login/registration using real-time voice recording.</p>
-      <p><b>Tech Stack:</b> React, JavaScript, Web Audio API, MediaRecorder, Python, SpeechRecognition, CSS</p>
-      <p><b>Links:</b> <a href="https://github.com/yourusername/VoicePass">GitHub</a></p>
+    <td width="33%" valign="top">
+      <b>Expense Tracker</b><br><br>
+      An application to track daily expenses and analyze spending habits.<br><br>
+      <b>Tech Stack:</b> Python<br><br>
+      <b>Links:</b>
+      <a href="https://github.com/DhaanishNihaal/expense_tracker">GitHub</a>
     </td>
-    <!-- Project 3 -->
-
+    <td width="33%" valign="top">
+      <b>WatchBuddy</b><br><br>
+      Movie recommendation system that helps users find movies using AI/ML.<br><br>
+      <b>Tech Stack:</b> React, Flask, scikit-learn, Pandas, CSS<br><br>
+      <b>Links:</b>
+      <a href="https://github.com/DhaanishNihaal/WatchBuddy">GitHub</a> |
+      <a href="https://watch-buddy-894r.vercel.app/">Live Demo</a>
+    </td>
   </tr>
 </table>
+<!-- PROJECTS TABLE END -->
+
+
 
 
 
@@ -59,7 +69,7 @@ Kalaignar Karunanidhi Institute of Technology, Coimbatore
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="margin:5px;"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="margin:5px;"/>
   </div>
-<br
+<br>
   <!-- Column 3 -->
   <div style="flex: 0 0 48%; margin-bottom: 20px;">
     <b>Backend:</b><br>
@@ -142,6 +152,7 @@ I'm always open to new opportunities and connecting with fellow developers. Feel
   </a>
 
 </p>
+
 
 
 
