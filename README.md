@@ -107,7 +107,7 @@ Kalaignar Karunanidhi Institute of Technology, Coimbatore
 
 ## Let's Collaborate!
 
-I'm always open to new opportunities and connecting with fellow developers. Feel free to reach out to me on **[LinkedIn](https://linkedin.com/in/dhaanish-nihaal)** or check out my other projects on my **[portfolio](https://github.com/DhaanishNihaal)**.
+I'm always open to new opportunities and connecting with fellow developers. Feel free to reach out to me on **[LinkedIn](https://www.linkedin.com/in/dhaanish-nihaal-608419292/)** or check out my other projects on my **[portfolio](https://github.com/DhaanishNihaal)**.
 
 ---
 
@@ -143,15 +143,16 @@ I'm always open to new opportunities and connecting with fellow developers. Feel
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://auth.geeksforgeeks.org/user/your_username" target="_blank">
+  <a href="https://www.geeksforgeeks.org/profile/dhaanish09h3" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.hackerrank.com/your_username" target="_blank">
+  <a href="https://www.hackerrank.com/profile/nihaal11nihaal" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
 
 </p>
+
 
 
 
