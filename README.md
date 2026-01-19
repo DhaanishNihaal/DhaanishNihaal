@@ -26,7 +26,7 @@ Kalaignar Karunanidhi Institute of Technology, Coimbatore
     <td width="33%" valign="top">
       <b>Expense Tracker</b><br><br>
       An application to track daily expenses and analyze spending habits.<br><br>
-      <b>Tech Stack:</b> Java,Maven<br><br>
+      <b>Tech Stack:</b> Java, Maven, Swing<br><br>
       <b>Links:</b>
       <a href="https://github.com/DhaanishNihaal/expense_tracker">GitHub</a>
     </td>
@@ -152,6 +152,7 @@ I'm always open to new opportunities and connecting with fellow developers. Feel
   </a>
 
 </p>
+
 
 
 
