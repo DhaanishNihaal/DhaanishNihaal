@@ -1,8 +1,12 @@
 <div align="center">
 
-# Dhaanish Nihaal
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:00E599&height=220&section=header&text=Dhaanish%20Nihaal&fontSize=65&fontColor=ffffff&animation=fadeIn" alt="Waving Banner" width="100%" />
 
-**Software Engineer | Competitive Programmer | Full-Stack Developer**
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Competitive+Programmer;Full-Stack+Developer;Systems+%26+Cloud+Enthusiast" alt="Typing Tagline" />
+
+<br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhaanish-nihaal-608419292/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhaanishnihaal@gmail.com)
@@ -10,6 +14,11 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nihaal11nihaal/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/dhaanishnihaal_)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhaanishNihaal)
+[![Profile Views](https://komarev.com/ghpvc/?username=DhaanishNihaal&label=Profile%20Views&color=3178c6&style=for-the-badge)](https://github.com/DhaanishNihaal)
+
+<br /><br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=DhaanishNihaal&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
@@ -29,48 +38,28 @@ Undergraduate Computer Science student at **Kalaignar Karunanidhi Institute of T
 
 ## Tech Stack
 
-### Languages
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,react,postgres,mysql,docker,git,vscode,idea,postman,linux,py,js,html,css,maven,vite" alt="My Tech Stack" />
+  </a>
+</div>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<br />
+
+### Languages
+- **Java**, **TypeScript**, **JavaScript**, **Python**, **SQL**, **HTML5**, **CSS3**
 
 ### Backend
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+- **Spring Boot**, **Spring Security**, **Spring Data JPA**, **WebSocket (STOMP)**, **JWT**, **Maven**
 
 ### Frontend & Mobile
-
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+- **React Native**, **Expo SDK**, **React.js**, **Vite**
 
 ### Databases & Cloud
+- **PostgreSQL (Neon serverless)**, **MySQL**, **Docker**, **Render**, **Vercel**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=postgresql&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### Development Tools
+- **Git & GitHub**, **VS Code**, **IntelliJ IDEA**, **Postman**, **Linux**
 
 ---
 
@@ -100,35 +89,55 @@ Undergraduate Computer Science student at **Kalaignar Karunanidhi Institute of T
 
 ---
 
-### [Disaster Connect](https://github.com/DhaanishNihaal/disaster_connect)
+### Other Key Projects
+
+<details>
+<summary><b>Disaster Connect</b> — Community Disaster Response Platform</summary>
+<br />
 
 Community-driven disaster response and coordination platform enabling real-time communication during emergencies.
 
-`TypeScript` `React Native` `Expo` `Full-Stack`
+**Technologies:** `TypeScript`, `React Native`, `Expo`, `Full-Stack`
 
----
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DhaanishNihaal/disaster_connect)
 
-### [AI Resume Analyzer](https://github.com/DhaanishNihaal/AI-Resume-Analyzer)
+</details>
 
-AI-powered resume parsing and analysis tool that provides actionable feedback for job seekers using NLP techniques.
+<details>
+<summary><b>AI Resume Analyzer</b> — AI-Powered Parser & Analyzer</summary>
+<br />
 
-`Python` `Machine Learning` `NLP`
+AI-powered resume parsing and analysis tool that provides actionable feedback for job seekers using Natural Language Processing (NLP) techniques.
 
----
+**Technologies:** `Python`, `Machine Learning`, `NLP`
 
-### [WatchBuddy](https://github.com/DhaanishNihaal/WatchBuddy)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DhaanishNihaal/AI-Resume-Analyzer)
 
-Movie and TV show discovery platform with personalised recommendations. [Live Demo](https://github.com/DhaanishNihaal/WatchBuddy)
+</details>
 
-`JavaScript` `React` `API Integration`
+<details>
+<summary><b>WatchBuddy</b> — Movie & TV Discovery Platform</summary>
+<br />
 
----
+Movie and TV show discovery platform with personalised recommendations.
 
-### [DSA Solutions](https://github.com/DhaanishNihaal/DSA)
+**Technologies:** `JavaScript`, `React.js`, `API Integration`
 
-Curated collection of 500+ data structures and algorithms solutions in Java — covering arrays, trees, graphs, DP, and more.
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DhaanishNihaal/WatchBuddy)
 
-`Java` `DSA` `Competitive Programming`
+</details>
+
+<details>
+<summary><b>DSA Solutions</b> — 500+ Java Algorithms & Solutions</summary>
+<br />
+
+Curated collection of 500+ data structures and algorithms solutions in Java — covering arrays, trees, graphs, dynamic programming, and more.
+
+**Technologies:** `Java`, `DSA`, `Competitive Programming`
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DhaanishNihaal/DSA)
+
+</details>
 
 ---
 
@@ -151,7 +160,7 @@ Curated collection of 500+ data structures and algorithms solutions in Java — 
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DhaanishNihaal&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DhaanishNihaal&theme=github_dark&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -161,9 +170,61 @@ Curated collection of 500+ data structures and algorithms solutions in Java — 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhaanishNihaal&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhaanishNihaal&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 
 </div>
+
+---
+
+### Interactive Contributions
+
+<details>
+<summary><b>Setup Animated Contribution Snake</b></summary>
+<br />
+
+To generate an interactive 3D animated snake eating your contribution grid:
+
+1. Create a new file in your profile repository: `.github/workflows/generate-snake.yml`
+2. Paste the following configuration to run the generator automatically:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: Generate SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            
+      - name: Push SVG to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Once the workflow runs, you can embed the animated snake directly in your README using:
+   `https://raw.githubusercontent.com/DhaanishNihaal/DhaanishNihaal/output/github-contribution-grid-snake-dark.svg`
+
+</details>
 
 ---
 
