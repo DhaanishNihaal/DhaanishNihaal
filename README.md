@@ -176,55 +176,7 @@ Curated collection of 500+ data structures and algorithms solutions in Java — 
 
 ---
 
-### Interactive Contributions
 
-<details>
-<summary><b>Setup Animated Contribution Snake</b></summary>
-<br />
-
-To generate an interactive 3D animated snake eating your contribution grid:
-
-1. Create a new file in your profile repository: `.github/workflows/generate-snake.yml`
-2. Paste the following configuration to run the generator automatically:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
-    steps:
-      - name: Generate SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            
-      - name: Push SVG to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Once the workflow runs, you can embed the animated snake directly in your README using:
-   `https://raw.githubusercontent.com/DhaanishNihaal/DhaanishNihaal/output/github-contribution-grid-snake-dark.svg`
-
-</details>
 
 ---
 
